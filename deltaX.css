@@ -1,0 +1,62 @@
+body{
+      background-color: #1DB954;
+}
+.home:hover{
+
+ background-color: #fff;
+}
+.form{
+  
+      position: relative;
+  }
+  
+  .form .fa-search{
+  
+      position: absolute;
+      top: 10px;
+      left: 15px;
+      color: #9ca3af;
+  
+  }
+
+  .left-pan{
+      padding-left: 100px;
+  }
+  
+  .left-pan i{
+     margin-bottom: 13px;
+     padding-left: 10px;
+  }
+  
+  .form-input{
+  
+      height: 55px;
+      text-indent: 33px;
+      border-radius: 10px;
+      margin-right: 120px;
+  }
+  
+  .form-input:focus{
+  
+      box-shadow: none;
+      border:none;
+  }
+  .TopButton{
+      display: flex;
+     justify-content: space-between;
+  }
+
+  .AddSong{
+      height: 30px;
+      border: none;
+      color:white;
+background-color: #9ca3af;
+  }
+ #TableImage{
+      box-shadow: 3px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    opacity: 0.9;
+  }
+
+  th,td {border-right: 1px solid black;
+  }
